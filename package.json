@@ -1,5 +1,5 @@
 {
-  "name": "TailBliss",
+  "name": "Cameron Dumas",
   "version": "0.1.1",
   "description": "Hugo + Alpine.js + TailwindCSS",
   "main": "index.js",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nusserstudios/tailbliss.git"
+    "url": "git+https://github.com/cdumas22/camerondumas.git"
   },
   "keywords": [
     "hugo",
@@ -36,10 +36,10 @@
     "categories",
     "tags"
   ],
-  "author": "NusserStudios",
+  "author": "Cameron Dumas",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nusserstudios/tailbliss/issues"
+    "url": "https://github.com/cdumas22/camerondumas"
   },
-  "homepage": "https://github.com/nusserstudios/tailbliss"
+  "homepage": "https://github.com/cdumas22/camerondumas"
 }
