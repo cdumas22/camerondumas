@@ -38,7 +38,7 @@ Only some time with it will show if this will work for me. The great part is it 
 
 ## Deployment
 
-I have long been a fan of [Cloudflare Tunnels](https://www.cloudflare.com/products/tunnel/). I just them extensively for personal projects.
+I have long been a fan of [Cloudflare Tunnels](https://www.cloudflare.com/products/tunnel/). I use them extensively for personal projects.
 
 While looking into Hugo I found that Cloudflare offers a service called [Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/). My domain is already hosted through Cloudflare so the setup was about 3 minutes.
 This setup was able to connect the Github for this blog and my Cloudflare account. Now whenever I push to the `main` branch a build is triggered that deploys the blog to Cloudflare.
